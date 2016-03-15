@@ -13,7 +13,7 @@ Package.describe({
 Package.onUse(function(api) {
   api.versionsFrom('1.2.1');
   api.use(['ecmascript', 'jquery']);
-  api.use('d3js:d3');
+  api.use('d3js:d3@3.5.8');
   api.addFiles('st.min.js');
 });
 
