@@ -1,6 +1,6 @@
 # NB
-This is fork of SpeckTackle by `sbeisken`. My aim is to port to a Meteor package and add support for
-other spectroscopy techniques, such as Raman.
+This is fork of SpeckTackle by `sbeisken` and simply a wrapper to use the library with Meteor.
+In future I am to add specific support for other spectroscopy techniques, such as Raman.
 
 # SpeckTackle
 ***st.js*** is a JavaScript library to create custom-tailored charts for spectroscopy in life sciences.
