@@ -1,0 +1,34 @@
+{
+    "name": "st",
+    "version": "0.0.1",
+    "description": "A free JavaScript charting library for spectroscopy.",
+    "keywords": [
+        "visualization",
+        "spectroscopy",
+        "svg"
+    ],
+    "homepage": "",
+    "author": {
+        "name": "Stephan Beisken",
+        "url": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/sbeisken/specktackle"
+    },
+    "main": "index.js",
+    "browserify": "st.js",
+    "dependencies": {
+        "jquery": "2.1.1"
+    },
+    "devDependencies": {
+        "smash": "0.0.12",
+        "uglify-js": "1.3.5"
+    },
+    "licenses": [
+        {
+            "type": "LGPL",
+            "url": "https://www.gnu.org/licenses/lgpl.html"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+﻿{
+    "spectrumId": "PR100729",
+    "mzStart": 98.0598,
+    "mzStop": 160.8423,
+    "peaks": [
+        {
+            "mz": 98.0598,
+            "intensity": 222.0
+        },
+        {
+            "mz": 116.0714,
+            "intensity": 820.0
+        },
+        {
+            "mz": 142.0505,
+            "intensity": 668.0
+        },
+        {
+            "mz": 160.061,
+            "intensity": 999.0
+        },
+        {
+            "mz": 160.8423,
+            "intensity": 781.0
+        }
+    ]
+}

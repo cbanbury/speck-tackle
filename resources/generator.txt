@@ -1,0 +1,15 @@
+# Random data generator 
+# http://www.json-generator.com/
+[
+  '{{repeat(10, 10)}}',
+  {
+    id: '{{index()}}',
+    data: [
+      '{{repeat(1000)}}',
+      {
+        x: '{{integer(0, 1500)}}',
+        y: '{{integer(0, 10000)}}'
+      }
+    ]
+  }
+]

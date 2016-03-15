@@ -1,0 +1,3071 @@
+﻿{
+    "spectrumId": "CA000057",
+    "mzStart": 2.0017,
+    "mzStop": 670.4866,
+    "peaks": [
+        {
+            "mz": 2.0017,
+            "intensity": 1.0
+        },
+        {
+            "mz": 11.9999,
+            "intensity": 0.0
+        },
+        {
+            "mz": 14.0139,
+            "intensity": 1.0
+        },
+        {
+            "mz": 15.0249,
+            "intensity": 5.0
+        },
+        {
+            "mz": 18.1906,
+            "intensity": 0.0
+        },
+        {
+            "mz": 18.9949,
+            "intensity": 0.0
+        },
+        {
+            "mz": 22.9872,
+            "intensity": 1.0
+        },
+        {
+            "mz": 25.0113,
+            "intensity": 0.0
+        },
+        {
+            "mz": 26.0076,
+            "intensity": 2.0
+        },
+        {
+            "mz": 27.0169,
+            "intensity": 20.0
+        },
+        {
+            "mz": 27.9994,
+            "intensity": 1.0
+        },
+        {
+            "mz": 29.0218,
+            "intensity": 16.0
+        },
+        {
+            "mz": 30.0238,
+            "intensity": 0.0
+        },
+        {
+            "mz": 31.008,
+            "intensity": 3.0
+        },
+        {
+            "mz": 36.9447,
+            "intensity": 1.0
+        },
+        {
+            "mz": 37.2341,
+            "intensity": 0.0
+        },
+        {
+            "mz": 37.4716,
+            "intensity": 0.0
+        },
+        {
+            "mz": 37.9955,
+            "intensity": 4.0
+        },
+        {
+            "mz": 38.3781,
+            "intensity": 0.0
+        },
+        {
+            "mz": 39.012,
+            "intensity": 43.0
+        },
+        {
+            "mz": 40.0171,
+            "intensity": 7.0
+        },
+        {
+            "mz": 41.0297,
+            "intensity": 111.0
+        },
+        {
+            "mz": 42.0016,
+            "intensity": 5.0
+        },
+        {
+            "mz": 42.3226,
+            "intensity": 0.0
+        },
+        {
+            "mz": 43.0082,
+            "intensity": 797.0
+        },
+        {
+            "mz": 44.0072,
+            "intensity": 4.0
+        },
+        {
+            "mz": 45.0114,
+            "intensity": 6.0
+        },
+        {
+            "mz": 45.4965,
+            "intensity": 0.0
+        },
+        {
+            "mz": 48.0872,
+            "intensity": 0.0
+        },
+        {
+            "mz": 48.9646,
+            "intensity": 1.0
+        },
+        {
+            "mz": 49.9925,
+            "intensity": 9.0
+        },
+        {
+            "mz": 51.0183,
+            "intensity": 24.0
+        },
+        {
+            "mz": 52.0207,
+            "intensity": 11.0
+        },
+        {
+            "mz": 52.2969,
+            "intensity": 1.0
+        },
+        {
+            "mz": 53.0265,
+            "intensity": 62.0
+        },
+        {
+            "mz": 54.0243,
+            "intensity": 4.0
+        },
+        {
+            "mz": 55.0367,
+            "intensity": 128.0
+        },
+        {
+            "mz": 55.7177,
+            "intensity": 0.0
+        },
+        {
+            "mz": 56.038,
+            "intensity": 4.0
+        },
+        {
+            "mz": 57.046,
+            "intensity": 54.0
+        },
+        {
+            "mz": 58.0438,
+            "intensity": 6.0
+        },
+        {
+            "mz": 59.0389,
+            "intensity": 21.0
+        },
+        {
+            "mz": 59.9855,
+            "intensity": 0.0
+        },
+        {
+            "mz": 61.0189,
+            "intensity": 5.0
+        },
+        {
+            "mz": 62.0087,
+            "intensity": 7.0
+        },
+        {
+            "mz": 62.3735,
+            "intensity": 1.0
+        },
+        {
+            "mz": 63.0276,
+            "intensity": 22.0
+        },
+        {
+            "mz": 63.9851,
+            "intensity": 4.0
+        },
+        {
+            "mz": 64.4255,
+            "intensity": 1.0
+        },
+        {
+            "mz": 65.0278,
+            "intensity": 44.0
+        },
+        {
+            "mz": 66.0285,
+            "intensity": 11.0
+        },
+        {
+            "mz": 67.036,
+            "intensity": 97.0
+        },
+        {
+            "mz": 68.049,
+            "intensity": 6.0
+        },
+        {
+            "mz": 69.0336,
+            "intensity": 183.0
+        },
+        {
+            "mz": 70.0452,
+            "intensity": 8.0
+        },
+        {
+            "mz": 70.5429,
+            "intensity": 0.0
+        },
+        {
+            "mz": 71.0348,
+            "intensity": 69.0
+        },
+        {
+            "mz": 72.0431,
+            "intensity": 1.0
+        },
+        {
+            "mz": 73.0702,
+            "intensity": 1.0
+        },
+        {
+            "mz": 73.5019,
+            "intensity": 0.0
+        },
+        {
+            "mz": 74.0115,
+            "intensity": 5.0
+        },
+        {
+            "mz": 74.5966,
+            "intensity": 0.0
+        },
+        {
+            "mz": 75.0376,
+            "intensity": 9.0
+        },
+        {
+            "mz": 76.0076,
+            "intensity": 7.0
+        },
+        {
+            "mz": 77.0239,
+            "intensity": 148.0
+        },
+        {
+            "mz": 77.5187,
+            "intensity": 1.0
+        },
+        {
+            "mz": 78.0325,
+            "intensity": 28.0
+        },
+        {
+            "mz": 79.0346,
+            "intensity": 124.0
+        },
+        {
+            "mz": 79.6997,
+            "intensity": 0.0
+        },
+        {
+            "mz": 80.0258,
+            "intensity": 14.0
+        },
+        {
+            "mz": 81.0496,
+            "intensity": 125.0
+        },
+        {
+            "mz": 81.6751,
+            "intensity": 1.0
+        },
+        {
+            "mz": 82.0215,
+            "intensity": 7.0
+        },
+        {
+            "mz": 83.0587,
+            "intensity": 505.0
+        },
+        {
+            "mz": 84.0478,
+            "intensity": 8.0
+        },
+        {
+            "mz": 85.0597,
+            "intensity": 151.0
+        },
+        {
+            "mz": 86.0444,
+            "intensity": 4.0
+        },
+        {
+            "mz": 87.0232,
+            "intensity": 59.0
+        },
+        {
+            "mz": 88.0104,
+            "intensity": 3.0
+        },
+        {
+            "mz": 88.2983,
+            "intensity": 0.0
+        },
+        {
+            "mz": 89.029,
+            "intensity": 20.0
+        },
+        {
+            "mz": 89.4274,
+            "intensity": 2.0
+        },
+        {
+            "mz": 90.0258,
+            "intensity": 8.0
+        },
+        {
+            "mz": 91.0381,
+            "intensity": 355.0
+        },
+        {
+            "mz": 92.0429,
+            "intensity": 31.0
+        },
+        {
+            "mz": 93.0517,
+            "intensity": 233.0
+        },
+        {
+            "mz": 94.0439,
+            "intensity": 19.0
+        },
+        {
+            "mz": 94.4737,
+            "intensity": 2.0
+        },
+        {
+            "mz": 95.0546,
+            "intensity": 223.0
+        },
+        {
+            "mz": 96.0355,
+            "intensity": 14.0
+        },
+        {
+            "mz": 96.3805,
+            "intensity": 1.0
+        },
+        {
+            "mz": 97.0433,
+            "intensity": 50.0
+        },
+        {
+            "mz": 97.4743,
+            "intensity": 1.0
+        },
+        {
+            "mz": 98.0249,
+            "intensity": 7.0
+        },
+        {
+            "mz": 99.0353,
+            "intensity": 24.0
+        },
+        {
+            "mz": 99.6811,
+            "intensity": 1.0
+        },
+        {
+            "mz": 100.0228,
+            "intensity": 5.0
+        },
+        {
+            "mz": 101.0227,
+            "intensity": 9.0
+        },
+        {
+            "mz": 101.4456,
+            "intensity": 2.0
+        },
+        {
+            "mz": 102.0337,
+            "intensity": 23.0
+        },
+        {
+            "mz": 103.0424,
+            "intensity": 77.0
+        },
+        {
+            "mz": 104.0502,
+            "intensity": 27.0
+        },
+        {
+            "mz": 105.0585,
+            "intensity": 459.0
+        },
+        {
+            "mz": 106.0599,
+            "intensity": 44.0
+        },
+        {
+            "mz": 107.0693,
+            "intensity": 249.0
+        },
+        {
+            "mz": 108.049,
+            "intensity": 26.0
+        },
+        {
+            "mz": 109.0848,
+            "intensity": 999.0
+        },
+        {
+            "mz": 110.0667,
+            "intensity": 10.0
+        },
+        {
+            "mz": 111.0608,
+            "intensity": 86.0
+        },
+        {
+            "mz": 111.7011,
+            "intensity": 0.0
+        },
+        {
+            "mz": 112.076,
+            "intensity": 9.0
+        },
+        {
+            "mz": 113.0431,
+            "intensity": 48.0
+        },
+        {
+            "mz": 113.4476,
+            "intensity": 3.0
+        },
+        {
+            "mz": 114.0664,
+            "intensity": 11.0
+        },
+        {
+            "mz": 115.0429,
+            "intensity": 246.0
+        },
+        {
+            "mz": 116.0317,
+            "intensity": 82.0
+        },
+        {
+            "mz": 117.0496,
+            "intensity": 230.0
+        },
+        {
+            "mz": 118.0447,
+            "intensity": 44.0
+        },
+        {
+            "mz": 119.0583,
+            "intensity": 490.0
+        },
+        {
+            "mz": 120.0552,
+            "intensity": 47.0
+        },
+        {
+            "mz": 121.0536,
+            "intensity": 227.0
+        },
+        {
+            "mz": 122.0474,
+            "intensity": 29.0
+        },
+        {
+            "mz": 123.0489,
+            "intensity": 76.0
+        },
+        {
+            "mz": 123.4062,
+            "intensity": 3.0
+        },
+        {
+            "mz": 124.0597,
+            "intensity": 6.0
+        },
+        {
+            "mz": 124.4021,
+            "intensity": 2.0
+        },
+        {
+            "mz": 125.0565,
+            "intensity": 127.0
+        },
+        {
+            "mz": 126.0161,
+            "intensity": 14.0
+        },
+        {
+            "mz": 127.056,
+            "intensity": 187.0
+        },
+        {
+            "mz": 128.0339,
+            "intensity": 288.0
+        },
+        {
+            "mz": 129.0287,
+            "intensity": 355.0
+        },
+        {
+            "mz": 130.031,
+            "intensity": 125.0
+        },
+        {
+            "mz": 131.0379,
+            "intensity": 305.0
+        },
+        {
+            "mz": 132.0399,
+            "intensity": 69.0
+        },
+        {
+            "mz": 133.0479,
+            "intensity": 272.0
+        },
+        {
+            "mz": 134.0338,
+            "intensity": 39.0
+        },
+        {
+            "mz": 135.0429,
+            "intensity": 329.0
+        },
+        {
+            "mz": 136.0313,
+            "intensity": 22.0
+        },
+        {
+            "mz": 137.0382,
+            "intensity": 139.0
+        },
+        {
+            "mz": 137.5265,
+            "intensity": 2.0
+        },
+        {
+            "mz": 138.0213,
+            "intensity": 14.0
+        },
+        {
+            "mz": 139.026,
+            "intensity": 63.0
+        },
+        {
+            "mz": 140.0083,
+            "intensity": 19.0
+        },
+        {
+            "mz": 141.0317,
+            "intensity": 268.0
+        },
+        {
+            "mz": 142.0264,
+            "intensity": 237.0
+        },
+        {
+            "mz": 143.0381,
+            "intensity": 438.0
+        },
+        {
+            "mz": 144.0462,
+            "intensity": 122.0
+        },
+        {
+            "mz": 145.0444,
+            "intensity": 403.0
+        },
+        {
+            "mz": 146.0342,
+            "intensity": 76.0
+        },
+        {
+            "mz": 147.0394,
+            "intensity": 376.0
+        },
+        {
+            "mz": 148.0425,
+            "intensity": 37.0
+        },
+        {
+            "mz": 149.0451,
+            "intensity": 274.0
+        },
+        {
+            "mz": 150.0695,
+            "intensity": 12.0
+        },
+        {
+            "mz": 151.0455,
+            "intensity": 79.0
+        },
+        {
+            "mz": 152.0369,
+            "intensity": 125.0
+        },
+        {
+            "mz": 153.0325,
+            "intensity": 180.0
+        },
+        {
+            "mz": 153.5283,
+            "intensity": 16.0
+        },
+        {
+            "mz": 154.0388,
+            "intensity": 87.0
+        },
+        {
+            "mz": 155.0604,
+            "intensity": 334.0
+        },
+        {
+            "mz": 156.0639,
+            "intensity": 221.0
+        },
+        {
+            "mz": 157.0779,
+            "intensity": 442.0
+        },
+        {
+            "mz": 158.0592,
+            "intensity": 112.0
+        },
+        {
+            "mz": 159.0624,
+            "intensity": 380.0
+        },
+        {
+            "mz": 160.0649,
+            "intensity": 55.0
+        },
+        {
+            "mz": 161.0635,
+            "intensity": 201.0
+        },
+        {
+            "mz": 162.0598,
+            "intensity": 21.0
+        },
+        {
+            "mz": 162.4469,
+            "intensity": 3.0
+        },
+        {
+            "mz": 163.0683,
+            "intensity": 62.0
+        },
+        {
+            "mz": 164.0535,
+            "intensity": 24.0
+        },
+        {
+            "mz": 164.4736,
+            "intensity": 5.0
+        },
+        {
+            "mz": 165.0703,
+            "intensity": 288.0
+        },
+        {
+            "mz": 166.0766,
+            "intensity": 107.0
+        },
+        {
+            "mz": 167.0774,
+            "intensity": 215.0
+        },
+        {
+            "mz": 168.0855,
+            "intensity": 94.0
+        },
+        {
+            "mz": 169.0944,
+            "intensity": 317.0
+        },
+        {
+            "mz": 170.0994,
+            "intensity": 147.0
+        },
+        {
+            "mz": 171.1101,
+            "intensity": 299.0
+        },
+        {
+            "mz": 172.0956,
+            "intensity": 103.0
+        },
+        {
+            "mz": 172.5756,
+            "intensity": 13.0
+        },
+        {
+            "mz": 173.1095,
+            "intensity": 223.0
+        },
+        {
+            "mz": 174.1064,
+            "intensity": 32.0
+        },
+        {
+            "mz": 175.1046,
+            "intensity": 102.0
+        },
+        {
+            "mz": 176.0821,
+            "intensity": 21.0
+        },
+        {
+            "mz": 177.1042,
+            "intensity": 50.0
+        },
+        {
+            "mz": 178.0962,
+            "intensity": 144.0
+        },
+        {
+            "mz": 179.0906,
+            "intensity": 239.0
+        },
+        {
+            "mz": 180.0939,
+            "intensity": 106.0
+        },
+        {
+            "mz": 181.0996,
+            "intensity": 295.0
+        },
+        {
+            "mz": 182.1044,
+            "intensity": 113.0
+        },
+        {
+            "mz": 183.1082,
+            "intensity": 297.0
+        },
+        {
+            "mz": 184.1194,
+            "intensity": 90.0
+        },
+        {
+            "mz": 185.1034,
+            "intensity": 242.0
+        },
+        {
+            "mz": 185.567,
+            "intensity": 11.0
+        },
+        {
+            "mz": 186.1062,
+            "intensity": 51.0
+        },
+        {
+            "mz": 187.108,
+            "intensity": 98.0
+        },
+        {
+            "mz": 188.0629,
+            "intensity": 24.0
+        },
+        {
+            "mz": 189.0842,
+            "intensity": 99.0
+        },
+        {
+            "mz": 190.0831,
+            "intensity": 34.0
+        },
+        {
+            "mz": 191.0843,
+            "intensity": 102.0
+        },
+        {
+            "mz": 192.0846,
+            "intensity": 93.0
+        },
+        {
+            "mz": 193.0888,
+            "intensity": 231.0
+        },
+        {
+            "mz": 194.0937,
+            "intensity": 118.0
+        },
+        {
+            "mz": 195.0975,
+            "intensity": 314.0
+        },
+        {
+            "mz": 196.102,
+            "intensity": 99.0
+        },
+        {
+            "mz": 197.1088,
+            "intensity": 297.0
+        },
+        {
+            "mz": 198.1063,
+            "intensity": 74.0
+        },
+        {
+            "mz": 199.1111,
+            "intensity": 174.0
+        },
+        {
+            "mz": 199.5674,
+            "intensity": 6.0
+        },
+        {
+            "mz": 200.1082,
+            "intensity": 75.0
+        },
+        {
+            "mz": 201.0976,
+            "intensity": 76.0
+        },
+        {
+            "mz": 202.071,
+            "intensity": 75.0
+        },
+        {
+            "mz": 203.0848,
+            "intensity": 95.0
+        },
+        {
+            "mz": 204.1124,
+            "intensity": 41.0
+        },
+        {
+            "mz": 205.0909,
+            "intensity": 112.0
+        },
+        {
+            "mz": 206.1064,
+            "intensity": 91.0
+        },
+        {
+            "mz": 207.101,
+            "intensity": 212.0
+        },
+        {
+            "mz": 208.1044,
+            "intensity": 114.0
+        },
+        {
+            "mz": 209.1084,
+            "intensity": 255.0
+        },
+        {
+            "mz": 210.1129,
+            "intensity": 89.0
+        },
+        {
+            "mz": 211.1147,
+            "intensity": 244.0
+        },
+        {
+            "mz": 212.112,
+            "intensity": 52.0
+        },
+        {
+            "mz": 213.1148,
+            "intensity": 156.0
+        },
+        {
+            "mz": 214.1132,
+            "intensity": 24.0
+        },
+        {
+            "mz": 215.0754,
+            "intensity": 159.0
+        },
+        {
+            "mz": 216.0831,
+            "intensity": 46.0
+        },
+        {
+            "mz": 216.5154,
+            "intensity": 5.0
+        },
+        {
+            "mz": 217.0981,
+            "intensity": 91.0
+        },
+        {
+            "mz": 218.0918,
+            "intensity": 46.0
+        },
+        {
+            "mz": 219.1028,
+            "intensity": 128.0
+        },
+        {
+            "mz": 220.1143,
+            "intensity": 69.0
+        },
+        {
+            "mz": 221.123,
+            "intensity": 174.0
+        },
+        {
+            "mz": 222.1472,
+            "intensity": 69.0
+        },
+        {
+            "mz": 223.1368,
+            "intensity": 192.0
+        },
+        {
+            "mz": 224.1503,
+            "intensity": 49.0
+        },
+        {
+            "mz": 225.1425,
+            "intensity": 134.0
+        },
+        {
+            "mz": 225.5935,
+            "intensity": 6.0
+        },
+        {
+            "mz": 226.1419,
+            "intensity": 48.0
+        },
+        {
+            "mz": 227.1384,
+            "intensity": 69.0
+        },
+        {
+            "mz": 228.1622,
+            "intensity": 41.0
+        },
+        {
+            "mz": 229.1277,
+            "intensity": 113.0
+        },
+        {
+            "mz": 230.1373,
+            "intensity": 37.0
+        },
+        {
+            "mz": 231.1306,
+            "intensity": 108.0
+        },
+        {
+            "mz": 232.1395,
+            "intensity": 63.0
+        },
+        {
+            "mz": 233.1555,
+            "intensity": 131.0
+        },
+        {
+            "mz": 234.1653,
+            "intensity": 53.0
+        },
+        {
+            "mz": 235.1638,
+            "intensity": 144.0
+        },
+        {
+            "mz": 236.1508,
+            "intensity": 47.0
+        },
+        {
+            "mz": 237.1788,
+            "intensity": 115.0
+        },
+        {
+            "mz": 238.2005,
+            "intensity": 33.0
+        },
+        {
+            "mz": 239.177,
+            "intensity": 99.0
+        },
+        {
+            "mz": 240.1255,
+            "intensity": 16.0
+        },
+        {
+            "mz": 241.181,
+            "intensity": 51.0
+        },
+        {
+            "mz": 242.146,
+            "intensity": 25.0
+        },
+        {
+            "mz": 243.1637,
+            "intensity": 71.0
+        },
+        {
+            "mz": 244.1632,
+            "intensity": 40.0
+        },
+        {
+            "mz": 245.1614,
+            "intensity": 93.0
+        },
+        {
+            "mz": 246.1634,
+            "intensity": 52.0
+        },
+        {
+            "mz": 247.1675,
+            "intensity": 117.0
+        },
+        {
+            "mz": 248.1618,
+            "intensity": 41.0
+        },
+        {
+            "mz": 249.1735,
+            "intensity": 120.0
+        },
+        {
+            "mz": 250.1804,
+            "intensity": 34.0
+        },
+        {
+            "mz": 251.1793,
+            "intensity": 78.0
+        },
+        {
+            "mz": 252.1532,
+            "intensity": 31.0
+        },
+        {
+            "mz": 253.1731,
+            "intensity": 63.0
+        },
+        {
+            "mz": 254.119,
+            "intensity": 14.0
+        },
+        {
+            "mz": 255.1769,
+            "intensity": 60.0
+        },
+        {
+            "mz": 256.1641,
+            "intensity": 33.0
+        },
+        {
+            "mz": 257.1669,
+            "intensity": 66.0
+        },
+        {
+            "mz": 258.1565,
+            "intensity": 30.0
+        },
+        {
+            "mz": 259.1634,
+            "intensity": 82.0
+        },
+        {
+            "mz": 260.1741,
+            "intensity": 29.0
+        },
+        {
+            "mz": 261.1885,
+            "intensity": 86.0
+        },
+        {
+            "mz": 262.1744,
+            "intensity": 24.0
+        },
+        {
+            "mz": 263.1929,
+            "intensity": 92.0
+        },
+        {
+            "mz": 264.1676,
+            "intensity": 19.0
+        },
+        {
+            "mz": 265.1852,
+            "intensity": 70.0
+        },
+        {
+            "mz": 266.1775,
+            "intensity": 18.0
+        },
+        {
+            "mz": 267.1768,
+            "intensity": 44.0
+        },
+        {
+            "mz": 268.1893,
+            "intensity": 16.0
+        },
+        {
+            "mz": 268.5376,
+            "intensity": 5.0
+        },
+        {
+            "mz": 269.163,
+            "intensity": 40.0
+        },
+        {
+            "mz": 270.1488,
+            "intensity": 18.0
+        },
+        {
+            "mz": 271.1691,
+            "intensity": 54.0
+        },
+        {
+            "mz": 271.7014,
+            "intensity": 4.0
+        },
+        {
+            "mz": 272.1828,
+            "intensity": 32.0
+        },
+        {
+            "mz": 273.1918,
+            "intensity": 76.0
+        },
+        {
+            "mz": 274.1858,
+            "intensity": 27.0
+        },
+        {
+            "mz": 275.1903,
+            "intensity": 79.0
+        },
+        {
+            "mz": 276.178,
+            "intensity": 16.0
+        },
+        {
+            "mz": 277.19,
+            "intensity": 45.0
+        },
+        {
+            "mz": 278.1409,
+            "intensity": 14.0
+        },
+        {
+            "mz": 279.1688,
+            "intensity": 44.0
+        },
+        {
+            "mz": 280.1851,
+            "intensity": 16.0
+        },
+        {
+            "mz": 281.1777,
+            "intensity": 48.0
+        },
+        {
+            "mz": 282.1964,
+            "intensity": 12.0
+        },
+        {
+            "mz": 282.6639,
+            "intensity": 4.0
+        },
+        {
+            "mz": 283.1862,
+            "intensity": 34.0
+        },
+        {
+            "mz": 284.1952,
+            "intensity": 21.0
+        },
+        {
+            "mz": 285.2147,
+            "intensity": 58.0
+        },
+        {
+            "mz": 286.178,
+            "intensity": 19.0
+        },
+        {
+            "mz": 287.1743,
+            "intensity": 76.0
+        },
+        {
+            "mz": 288.1931,
+            "intensity": 13.0
+        },
+        {
+            "mz": 289.2003,
+            "intensity": 53.0
+        },
+        {
+            "mz": 290.1736,
+            "intensity": 14.0
+        },
+        {
+            "mz": 291.2172,
+            "intensity": 36.0
+        },
+        {
+            "mz": 292.1876,
+            "intensity": 15.0
+        },
+        {
+            "mz": 293.23,
+            "intensity": 23.0
+        },
+        {
+            "mz": 294.2198,
+            "intensity": 10.0
+        },
+        {
+            "mz": 295.2115,
+            "intensity": 22.0
+        },
+        {
+            "mz": 296.2513,
+            "intensity": 8.0
+        },
+        {
+            "mz": 297.206,
+            "intensity": 25.0
+        },
+        {
+            "mz": 298.2122,
+            "intensity": 17.0
+        },
+        {
+            "mz": 299.1878,
+            "intensity": 46.0
+        },
+        {
+            "mz": 300.2099,
+            "intensity": 17.0
+        },
+        {
+            "mz": 301.2084,
+            "intensity": 61.0
+        },
+        {
+            "mz": 302.1659,
+            "intensity": 19.0
+        },
+        {
+            "mz": 303.2077,
+            "intensity": 59.0
+        },
+        {
+            "mz": 304.2094,
+            "intensity": 14.0
+        },
+        {
+            "mz": 305.206,
+            "intensity": 37.0
+        },
+        {
+            "mz": 306.1138,
+            "intensity": 8.0
+        },
+        {
+            "mz": 307.2034,
+            "intensity": 22.0
+        },
+        {
+            "mz": 307.774,
+            "intensity": 2.0
+        },
+        {
+            "mz": 308.2231,
+            "intensity": 6.0
+        },
+        {
+            "mz": 309.2053,
+            "intensity": 12.0
+        },
+        {
+            "mz": 310.15,
+            "intensity": 5.0
+        },
+        {
+            "mz": 311.1841,
+            "intensity": 30.0
+        },
+        {
+            "mz": 311.6969,
+            "intensity": 2.0
+        },
+        {
+            "mz": 312.2012,
+            "intensity": 11.0
+        },
+        {
+            "mz": 313.2204,
+            "intensity": 31.0
+        },
+        {
+            "mz": 314.2295,
+            "intensity": 10.0
+        },
+        {
+            "mz": 315.1908,
+            "intensity": 48.0
+        },
+        {
+            "mz": 316.2021,
+            "intensity": 13.0
+        },
+        {
+            "mz": 317.2376,
+            "intensity": 36.0
+        },
+        {
+            "mz": 318.2047,
+            "intensity": 17.0
+        },
+        {
+            "mz": 319.2029,
+            "intensity": 22.0
+        },
+        {
+            "mz": 320.2272,
+            "intensity": 5.0
+        },
+        {
+            "mz": 321.1605,
+            "intensity": 12.0
+        },
+        {
+            "mz": 321.709,
+            "intensity": 1.0
+        },
+        {
+            "mz": 322.1801,
+            "intensity": 5.0
+        },
+        {
+            "mz": 323.1843,
+            "intensity": 14.0
+        },
+        {
+            "mz": 324.108,
+            "intensity": 6.0
+        },
+        {
+            "mz": 324.6688,
+            "intensity": 1.0
+        },
+        {
+            "mz": 325.2039,
+            "intensity": 16.0
+        },
+        {
+            "mz": 326.2122,
+            "intensity": 10.0
+        },
+        {
+            "mz": 326.5737,
+            "intensity": 2.0
+        },
+        {
+            "mz": 327.2191,
+            "intensity": 32.0
+        },
+        {
+            "mz": 328.1935,
+            "intensity": 18.0
+        },
+        {
+            "mz": 329.1767,
+            "intensity": 38.0
+        },
+        {
+            "mz": 330.1411,
+            "intensity": 10.0
+        },
+        {
+            "mz": 331.2091,
+            "intensity": 27.0
+        },
+        {
+            "mz": 331.6657,
+            "intensity": 3.0
+        },
+        {
+            "mz": 332.1826,
+            "intensity": 8.0
+        },
+        {
+            "mz": 333.2321,
+            "intensity": 18.0
+        },
+        {
+            "mz": 334.1956,
+            "intensity": 7.0
+        },
+        {
+            "mz": 334.4766,
+            "intensity": 2.0
+        },
+        {
+            "mz": 335.2352,
+            "intensity": 11.0
+        },
+        {
+            "mz": 336.125,
+            "intensity": 5.0
+        },
+        {
+            "mz": 337.1788,
+            "intensity": 9.0
+        },
+        {
+            "mz": 337.9274,
+            "intensity": 3.0
+        },
+        {
+            "mz": 338.3001,
+            "intensity": 4.0
+        },
+        {
+            "mz": 339.1973,
+            "intensity": 17.0
+        },
+        {
+            "mz": 340.2414,
+            "intensity": 5.0
+        },
+        {
+            "mz": 341.2304,
+            "intensity": 39.0
+        },
+        {
+            "mz": 342.2352,
+            "intensity": 9.0
+        },
+        {
+            "mz": 343.2091,
+            "intensity": 28.0
+        },
+        {
+            "mz": 344.2419,
+            "intensity": 9.0
+        },
+        {
+            "mz": 345.2576,
+            "intensity": 38.0
+        },
+        {
+            "mz": 346.2027,
+            "intensity": 8.0
+        },
+        {
+            "mz": 347.2205,
+            "intensity": 14.0
+        },
+        {
+            "mz": 348.2489,
+            "intensity": 6.0
+        },
+        {
+            "mz": 348.5376,
+            "intensity": 2.0
+        },
+        {
+            "mz": 349.2533,
+            "intensity": 5.0
+        },
+        {
+            "mz": 350.2534,
+            "intensity": 2.0
+        },
+        {
+            "mz": 350.6627,
+            "intensity": 1.0
+        },
+        {
+            "mz": 351.2066,
+            "intensity": 8.0
+        },
+        {
+            "mz": 351.7075,
+            "intensity": 1.0
+        },
+        {
+            "mz": 352.2395,
+            "intensity": 4.0
+        },
+        {
+            "mz": 352.7456,
+            "intensity": 2.0
+        },
+        {
+            "mz": 353.2898,
+            "intensity": 17.0
+        },
+        {
+            "mz": 354.1882,
+            "intensity": 8.0
+        },
+        {
+            "mz": 355.2458,
+            "intensity": 18.0
+        },
+        {
+            "mz": 356.2552,
+            "intensity": 7.0
+        },
+        {
+            "mz": 357.244,
+            "intensity": 13.0
+        },
+        {
+            "mz": 357.7748,
+            "intensity": 2.0
+        },
+        {
+            "mz": 358.214,
+            "intensity": 4.0
+        },
+        {
+            "mz": 359.2585,
+            "intensity": 15.0
+        },
+        {
+            "mz": 360.1787,
+            "intensity": 5.0
+        },
+        {
+            "mz": 360.7616,
+            "intensity": 1.0
+        },
+        {
+            "mz": 361.3204,
+            "intensity": 5.0
+        },
+        {
+            "mz": 362.2011,
+            "intensity": 5.0
+        },
+        {
+            "mz": 363.2982,
+            "intensity": 5.0
+        },
+        {
+            "mz": 364.219,
+            "intensity": 5.0
+        },
+        {
+            "mz": 365.2646,
+            "intensity": 9.0
+        },
+        {
+            "mz": 366.1476,
+            "intensity": 7.0
+        },
+        {
+            "mz": 366.4108,
+            "intensity": 3.0
+        },
+        {
+            "mz": 367.3078,
+            "intensity": 12.0
+        },
+        {
+            "mz": 368.2603,
+            "intensity": 4.0
+        },
+        {
+            "mz": 368.605,
+            "intensity": 2.0
+        },
+        {
+            "mz": 369.3135,
+            "intensity": 13.0
+        },
+        {
+            "mz": 370.3028,
+            "intensity": 7.0
+        },
+        {
+            "mz": 371.2541,
+            "intensity": 16.0
+        },
+        {
+            "mz": 372.2506,
+            "intensity": 5.0
+        },
+        {
+            "mz": 373.2646,
+            "intensity": 12.0
+        },
+        {
+            "mz": 374.2632,
+            "intensity": 3.0
+        },
+        {
+            "mz": 374.6689,
+            "intensity": 2.0
+        },
+        {
+            "mz": 375.3399,
+            "intensity": 5.0
+        },
+        {
+            "mz": 376.3683,
+            "intensity": 3.0
+        },
+        {
+            "mz": 377.3222,
+            "intensity": 7.0
+        },
+        {
+            "mz": 378.1479,
+            "intensity": 2.0
+        },
+        {
+            "mz": 379.2199,
+            "intensity": 10.0
+        },
+        {
+            "mz": 379.9071,
+            "intensity": 1.0
+        },
+        {
+            "mz": 380.3658,
+            "intensity": 5.0
+        },
+        {
+            "mz": 381.2764,
+            "intensity": 17.0
+        },
+        {
+            "mz": 382.2996,
+            "intensity": 8.0
+        },
+        {
+            "mz": 383.323,
+            "intensity": 15.0
+        },
+        {
+            "mz": 384.3708,
+            "intensity": 4.0
+        },
+        {
+            "mz": 385.2872,
+            "intensity": 14.0
+        },
+        {
+            "mz": 386.2729,
+            "intensity": 6.0
+        },
+        {
+            "mz": 387.3125,
+            "intensity": 8.0
+        },
+        {
+            "mz": 387.6349,
+            "intensity": 4.0
+        },
+        {
+            "mz": 388.3211,
+            "intensity": 5.0
+        },
+        {
+            "mz": 389.3142,
+            "intensity": 5.0
+        },
+        {
+            "mz": 390.278,
+            "intensity": 3.0
+        },
+        {
+            "mz": 390.7877,
+            "intensity": 2.0
+        },
+        {
+            "mz": 391.3494,
+            "intensity": 6.0
+        },
+        {
+            "mz": 392.2095,
+            "intensity": 2.0
+        },
+        {
+            "mz": 393.2968,
+            "intensity": 19.0
+        },
+        {
+            "mz": 393.7181,
+            "intensity": 3.0
+        },
+        {
+            "mz": 394.2293,
+            "intensity": 10.0
+        },
+        {
+            "mz": 394.4997,
+            "intensity": 4.0
+        },
+        {
+            "mz": 395.2917,
+            "intensity": 13.0
+        },
+        {
+            "mz": 395.7753,
+            "intensity": 2.0
+        },
+        {
+            "mz": 396.2416,
+            "intensity": 4.0
+        },
+        {
+            "mz": 397.2401,
+            "intensity": 7.0
+        },
+        {
+            "mz": 398.2978,
+            "intensity": 5.0
+        },
+        {
+            "mz": 399.2845,
+            "intensity": 68.0
+        },
+        {
+            "mz": 399.8273,
+            "intensity": 4.0
+        },
+        {
+            "mz": 400.4083,
+            "intensity": 4.0
+        },
+        {
+            "mz": 401.3501,
+            "intensity": 6.0
+        },
+        {
+            "mz": 402.3459,
+            "intensity": 4.0
+        },
+        {
+            "mz": 403.2637,
+            "intensity": 5.0
+        },
+        {
+            "mz": 403.845,
+            "intensity": 2.0
+        },
+        {
+            "mz": 404.1573,
+            "intensity": 1.0
+        },
+        {
+            "mz": 404.4246,
+            "intensity": 1.0
+        },
+        {
+            "mz": 404.7786,
+            "intensity": 1.0
+        },
+        {
+            "mz": 405.2871,
+            "intensity": 4.0
+        },
+        {
+            "mz": 405.7002,
+            "intensity": 2.0
+        },
+        {
+            "mz": 406.2365,
+            "intensity": 3.0
+        },
+        {
+            "mz": 406.5993,
+            "intensity": 1.0
+        },
+        {
+            "mz": 407.2607,
+            "intensity": 6.0
+        },
+        {
+            "mz": 407.6322,
+            "intensity": 3.0
+        },
+        {
+            "mz": 408.3458,
+            "intensity": 6.0
+        },
+        {
+            "mz": 409.2678,
+            "intensity": 11.0
+        },
+        {
+            "mz": 410.0527,
+            "intensity": 3.0
+        },
+        {
+            "mz": 410.4608,
+            "intensity": 3.0
+        },
+        {
+            "mz": 411.2563,
+            "intensity": 8.0
+        },
+        {
+            "mz": 412.4009,
+            "intensity": 3.0
+        },
+        {
+            "mz": 413.2783,
+            "intensity": 13.0
+        },
+        {
+            "mz": 414.3242,
+            "intensity": 4.0
+        },
+        {
+            "mz": 414.7881,
+            "intensity": 1.0
+        },
+        {
+            "mz": 415.2695,
+            "intensity": 6.0
+        },
+        {
+            "mz": 415.6518,
+            "intensity": 1.0
+        },
+        {
+            "mz": 416.2531,
+            "intensity": 2.0
+        },
+        {
+            "mz": 416.5486,
+            "intensity": 0.0
+        },
+        {
+            "mz": 417.3342,
+            "intensity": 5.0
+        },
+        {
+            "mz": 418.3563,
+            "intensity": 4.0
+        },
+        {
+            "mz": 419.2917,
+            "intensity": 5.0
+        },
+        {
+            "mz": 419.5872,
+            "intensity": 2.0
+        },
+        {
+            "mz": 420.2601,
+            "intensity": 6.0
+        },
+        {
+            "mz": 421.3974,
+            "intensity": 3.0
+        },
+        {
+            "mz": 421.7278,
+            "intensity": 1.0
+        },
+        {
+            "mz": 422.267,
+            "intensity": 1.0
+        },
+        {
+            "mz": 422.6339,
+            "intensity": 1.0
+        },
+        {
+            "mz": 422.9505,
+            "intensity": 2.0
+        },
+        {
+            "mz": 423.2845,
+            "intensity": 3.0
+        },
+        {
+            "mz": 424.0464,
+            "intensity": 1.0
+        },
+        {
+            "mz": 424.4848,
+            "intensity": 1.0
+        },
+        {
+            "mz": 425.2538,
+            "intensity": 4.0
+        },
+        {
+            "mz": 425.7549,
+            "intensity": 1.0
+        },
+        {
+            "mz": 426.2664,
+            "intensity": 4.0
+        },
+        {
+            "mz": 427.2914,
+            "intensity": 7.0
+        },
+        {
+            "mz": 428.307,
+            "intensity": 6.0
+        },
+        {
+            "mz": 429.2909,
+            "intensity": 12.0
+        },
+        {
+            "mz": 429.8455,
+            "intensity": 2.0
+        },
+        {
+            "mz": 430.4106,
+            "intensity": 2.0
+        },
+        {
+            "mz": 431.1252,
+            "intensity": 6.0
+        },
+        {
+            "mz": 431.4956,
+            "intensity": 3.0
+        },
+        {
+            "mz": 431.7721,
+            "intensity": 2.0
+        },
+        {
+            "mz": 432.3268,
+            "intensity": 14.0
+        },
+        {
+            "mz": 433.299,
+            "intensity": 7.0
+        },
+        {
+            "mz": 434.28,
+            "intensity": 7.0
+        },
+        {
+            "mz": 434.5096,
+            "intensity": 3.0
+        },
+        {
+            "mz": 435.2942,
+            "intensity": 10.0
+        },
+        {
+            "mz": 435.9066,
+            "intensity": 1.0
+        },
+        {
+            "mz": 436.5103,
+            "intensity": 2.0
+        },
+        {
+            "mz": 437.3072,
+            "intensity": 1.0
+        },
+        {
+            "mz": 438.0015,
+            "intensity": 2.0
+        },
+        {
+            "mz": 438.3792,
+            "intensity": 0.0
+        },
+        {
+            "mz": 439.0196,
+            "intensity": 2.0
+        },
+        {
+            "mz": 439.3851,
+            "intensity": 2.0
+        },
+        {
+            "mz": 439.8115,
+            "intensity": 1.0
+        },
+        {
+            "mz": 440.3389,
+            "intensity": 2.0
+        },
+        {
+            "mz": 441.3572,
+            "intensity": 3.0
+        },
+        {
+            "mz": 442.2642,
+            "intensity": 5.0
+        },
+        {
+            "mz": 443.3228,
+            "intensity": 8.0
+        },
+        {
+            "mz": 443.7128,
+            "intensity": 1.0
+        },
+        {
+            "mz": 444.3797,
+            "intensity": 9.0
+        },
+        {
+            "mz": 445.4002,
+            "intensity": 7.0
+        },
+        {
+            "mz": 446.2787,
+            "intensity": 6.0
+        },
+        {
+            "mz": 446.8144,
+            "intensity": 1.0
+        },
+        {
+            "mz": 447.3275,
+            "intensity": 2.0
+        },
+        {
+            "mz": 448.1398,
+            "intensity": 2.0
+        },
+        {
+            "mz": 448.7295,
+            "intensity": 1.0
+        },
+        {
+            "mz": 449.3123,
+            "intensity": 9.0
+        },
+        {
+            "mz": 449.9281,
+            "intensity": 2.0
+        },
+        {
+            "mz": 450.3387,
+            "intensity": 1.0
+        },
+        {
+            "mz": 451.2435,
+            "intensity": 3.0
+        },
+        {
+            "mz": 452.0074,
+            "intensity": 1.0
+        },
+        {
+            "mz": 452.4686,
+            "intensity": 1.0
+        },
+        {
+            "mz": 453.1908,
+            "intensity": 2.0
+        },
+        {
+            "mz": 453.5459,
+            "intensity": 1.0
+        },
+        {
+            "mz": 454.3256,
+            "intensity": 1.0
+        },
+        {
+            "mz": 455.3666,
+            "intensity": 6.0
+        },
+        {
+            "mz": 456.2022,
+            "intensity": 2.0
+        },
+        {
+            "mz": 456.9961,
+            "intensity": 1.0
+        },
+        {
+            "mz": 457.4052,
+            "intensity": 4.0
+        },
+        {
+            "mz": 457.7883,
+            "intensity": 2.0
+        },
+        {
+            "mz": 458.3193,
+            "intensity": 2.0
+        },
+        {
+            "mz": 459.3206,
+            "intensity": 8.0
+        },
+        {
+            "mz": 460.2976,
+            "intensity": 17.0
+        },
+        {
+            "mz": 461.3357,
+            "intensity": 33.0
+        },
+        {
+            "mz": 462.3268,
+            "intensity": 4.0
+        },
+        {
+            "mz": 463.3354,
+            "intensity": 2.0
+        },
+        {
+            "mz": 464.102,
+            "intensity": 1.0
+        },
+        {
+            "mz": 464.5689,
+            "intensity": 1.0
+        },
+        {
+            "mz": 465.0829,
+            "intensity": 2.0
+        },
+        {
+            "mz": 465.414,
+            "intensity": 2.0
+        },
+        {
+            "mz": 466.1807,
+            "intensity": 1.0
+        },
+        {
+            "mz": 466.5955,
+            "intensity": 2.0
+        },
+        {
+            "mz": 467.3431,
+            "intensity": 3.0
+        },
+        {
+            "mz": 467.7091,
+            "intensity": 1.0
+        },
+        {
+            "mz": 468.2842,
+            "intensity": 1.0
+        },
+        {
+            "mz": 469.3596,
+            "intensity": 3.0
+        },
+        {
+            "mz": 469.5985,
+            "intensity": 2.0
+        },
+        {
+            "mz": 470.369,
+            "intensity": 4.0
+        },
+        {
+            "mz": 470.8902,
+            "intensity": 1.0
+        },
+        {
+            "mz": 471.3383,
+            "intensity": 7.0
+        },
+        {
+            "mz": 473.3573,
+            "intensity": 44.0
+        },
+        {
+            "mz": 474.4211,
+            "intensity": 6.0
+        },
+        {
+            "mz": 475.3838,
+            "intensity": 28.0
+        },
+        {
+            "mz": 476.3535,
+            "intensity": 15.0
+        },
+        {
+            "mz": 477.3547,
+            "intensity": 31.0
+        },
+        {
+            "mz": 478.1642,
+            "intensity": 3.0
+        },
+        {
+            "mz": 479.1899,
+            "intensity": 2.0
+        },
+        {
+            "mz": 479.9227,
+            "intensity": 2.0
+        },
+        {
+            "mz": 480.3328,
+            "intensity": 1.0
+        },
+        {
+            "mz": 481.2349,
+            "intensity": 3.0
+        },
+        {
+            "mz": 481.6903,
+            "intensity": 1.0
+        },
+        {
+            "mz": 482.2068,
+            "intensity": 2.0
+        },
+        {
+            "mz": 482.5629,
+            "intensity": 3.0
+        },
+        {
+            "mz": 482.8177,
+            "intensity": 1.0
+        },
+        {
+            "mz": 483.4114,
+            "intensity": 2.0
+        },
+        {
+            "mz": 483.8483,
+            "intensity": 1.0
+        },
+        {
+            "mz": 484.3567,
+            "intensity": 2.0
+        },
+        {
+            "mz": 484.6039,
+            "intensity": 1.0
+        },
+        {
+            "mz": 484.9139,
+            "intensity": 2.0
+        },
+        {
+            "mz": 485.431,
+            "intensity": 6.0
+        },
+        {
+            "mz": 486.2094,
+            "intensity": 7.0
+        },
+        {
+            "mz": 486.4583,
+            "intensity": 3.0
+        },
+        {
+            "mz": 487.3709,
+            "intensity": 15.0
+        },
+        {
+            "mz": 488.3409,
+            "intensity": 69.0
+        },
+        {
+            "mz": 489.332,
+            "intensity": 52.0
+        },
+        {
+            "mz": 490.114,
+            "intensity": 4.0
+        },
+        {
+            "mz": 490.9554,
+            "intensity": 1.0
+        },
+        {
+            "mz": 491.5808,
+            "intensity": 1.0
+        },
+        {
+            "mz": 492.5286,
+            "intensity": 2.0
+        },
+        {
+            "mz": 493.3457,
+            "intensity": 2.0
+        },
+        {
+            "mz": 493.8266,
+            "intensity": 2.0
+        },
+        {
+            "mz": 494.0862,
+            "intensity": 2.0
+        },
+        {
+            "mz": 494.3441,
+            "intensity": 1.0
+        },
+        {
+            "mz": 494.6421,
+            "intensity": 1.0
+        },
+        {
+            "mz": 495.3897,
+            "intensity": 3.0
+        },
+        {
+            "mz": 496.3517,
+            "intensity": 1.0
+        },
+        {
+            "mz": 496.6863,
+            "intensity": 1.0
+        },
+        {
+            "mz": 497.3259,
+            "intensity": 6.0
+        },
+        {
+            "mz": 498.5303,
+            "intensity": 3.0
+        },
+        {
+            "mz": 499.388,
+            "intensity": 8.0
+        },
+        {
+            "mz": 500.3416,
+            "intensity": 20.0
+        },
+        {
+            "mz": 501.3667,
+            "intensity": 5.0
+        },
+        {
+            "mz": 502.3901,
+            "intensity": 7.0
+        },
+        {
+            "mz": 503.3492,
+            "intensity": 13.0
+        },
+        {
+            "mz": 504.2473,
+            "intensity": 3.0
+        },
+        {
+            "mz": 504.7111,
+            "intensity": 2.0
+        },
+        {
+            "mz": 505.3965,
+            "intensity": 6.0
+        },
+        {
+            "mz": 506.3802,
+            "intensity": 2.0
+        },
+        {
+            "mz": 507.3954,
+            "intensity": 2.0
+        },
+        {
+            "mz": 508.3896,
+            "intensity": 1.0
+        },
+        {
+            "mz": 508.8851,
+            "intensity": 1.0
+        },
+        {
+            "mz": 509.4398,
+            "intensity": 1.0
+        },
+        {
+            "mz": 510.0034,
+            "intensity": 2.0
+        },
+        {
+            "mz": 510.3959,
+            "intensity": 1.0
+        },
+        {
+            "mz": 511.038,
+            "intensity": 1.0
+        },
+        {
+            "mz": 511.6364,
+            "intensity": 3.0
+        },
+        {
+            "mz": 512.228,
+            "intensity": 4.0
+        },
+        {
+            "mz": 512.5574,
+            "intensity": 3.0
+        },
+        {
+            "mz": 513.3937,
+            "intensity": 9.0
+        },
+        {
+            "mz": 514.4009,
+            "intensity": 13.0
+        },
+        {
+            "mz": 515.3629,
+            "intensity": 41.0
+        },
+        {
+            "mz": 516.3651,
+            "intensity": 10.0
+        },
+        {
+            "mz": 516.9698,
+            "intensity": 1.0
+        },
+        {
+            "mz": 517.5555,
+            "intensity": 2.0
+        },
+        {
+            "mz": 518.1621,
+            "intensity": 2.0
+        },
+        {
+            "mz": 518.6154,
+            "intensity": 2.0
+        },
+        {
+            "mz": 519.3248,
+            "intensity": 3.0
+        },
+        {
+            "mz": 519.7275,
+            "intensity": 1.0
+        },
+        {
+            "mz": 520.4039,
+            "intensity": 4.0
+        },
+        {
+            "mz": 521.4658,
+            "intensity": 2.0
+        },
+        {
+            "mz": 522.3463,
+            "intensity": 1.0
+        },
+        {
+            "mz": 523.3,
+            "intensity": 5.0
+        },
+        {
+            "mz": 523.6366,
+            "intensity": 2.0
+        },
+        {
+            "mz": 524.3847,
+            "intensity": 3.0
+        },
+        {
+            "mz": 525.3352,
+            "intensity": 4.0
+        },
+        {
+            "mz": 525.5201,
+            "intensity": 2.0
+        },
+        {
+            "mz": 526.3171,
+            "intensity": 2.0
+        },
+        {
+            "mz": 526.952,
+            "intensity": 2.0
+        },
+        {
+            "mz": 527.4561,
+            "intensity": 1.0
+        },
+        {
+            "mz": 527.8067,
+            "intensity": 1.0
+        },
+        {
+            "mz": 528.4329,
+            "intensity": 4.0
+        },
+        {
+            "mz": 528.7958,
+            "intensity": 2.0
+        },
+        {
+            "mz": 529.436,
+            "intensity": 7.0
+        },
+        {
+            "mz": 529.8494,
+            "intensity": 2.0
+        },
+        {
+            "mz": 530.8439,
+            "intensity": 5.0
+        },
+        {
+            "mz": 531.7093,
+            "intensity": 2.0
+        },
+        {
+            "mz": 532.2222,
+            "intensity": 3.0
+        },
+        {
+            "mz": 532.5398,
+            "intensity": 2.0
+        },
+        {
+            "mz": 532.8923,
+            "intensity": 2.0
+        },
+        {
+            "mz": 533.5554,
+            "intensity": 3.0
+        },
+        {
+            "mz": 534.4052,
+            "intensity": 2.0
+        },
+        {
+            "mz": 535.2272,
+            "intensity": 1.0
+        },
+        {
+            "mz": 535.6984,
+            "intensity": 2.0
+        },
+        {
+            "mz": 536.503,
+            "intensity": 2.0
+        },
+        {
+            "mz": 537.3338,
+            "intensity": 4.0
+        },
+        {
+            "mz": 537.5782,
+            "intensity": 4.0
+        },
+        {
+            "mz": 537.8801,
+            "intensity": 1.0
+        },
+        {
+            "mz": 538.2415,
+            "intensity": 2.0
+        },
+        {
+            "mz": 538.6378,
+            "intensity": 2.0
+        },
+        {
+            "mz": 539.4233,
+            "intensity": 10.0
+        },
+        {
+            "mz": 540.2996,
+            "intensity": 3.0
+        },
+        {
+            "mz": 540.6572,
+            "intensity": 3.0
+        },
+        {
+            "mz": 541.4502,
+            "intensity": 6.0
+        },
+        {
+            "mz": 542.1909,
+            "intensity": 6.0
+        },
+        {
+            "mz": 543.6516,
+            "intensity": 9.0
+        },
+        {
+            "mz": 545.6772,
+            "intensity": 6.0
+        },
+        {
+            "mz": 546.4966,
+            "intensity": 6.0
+        },
+        {
+            "mz": 547.3753,
+            "intensity": 8.0
+        },
+        {
+            "mz": 548.7842,
+            "intensity": 7.0
+        },
+        {
+            "mz": 549.2933,
+            "intensity": 7.0
+        },
+        {
+            "mz": 550.0222,
+            "intensity": 5.0
+        },
+        {
+            "mz": 550.3379,
+            "intensity": 4.0
+        },
+        {
+            "mz": 551.2151,
+            "intensity": 7.0
+        },
+        {
+            "mz": 552.3574,
+            "intensity": 13.0
+        },
+        {
+            "mz": 553.3725,
+            "intensity": 3.0
+        },
+        {
+            "mz": 554.0074,
+            "intensity": 4.0
+        },
+        {
+            "mz": 554.4818,
+            "intensity": 4.0
+        },
+        {
+            "mz": 555.4517,
+            "intensity": 6.0
+        },
+        {
+            "mz": 556.556,
+            "intensity": 7.0
+        },
+        {
+            "mz": 557.3934,
+            "intensity": 17.0
+        },
+        {
+            "mz": 558.4315,
+            "intensity": 26.0
+        },
+        {
+            "mz": 559.3597,
+            "intensity": 21.0
+        },
+        {
+            "mz": 560.5078,
+            "intensity": 4.0
+        },
+        {
+            "mz": 561.3856,
+            "intensity": 7.0
+        },
+        {
+            "mz": 562.3157,
+            "intensity": 8.0
+        },
+        {
+            "mz": 563.923,
+            "intensity": 8.0
+        },
+        {
+            "mz": 565.2513,
+            "intensity": 18.0
+        },
+        {
+            "mz": 565.5463,
+            "intensity": 7.0
+        },
+        {
+            "mz": 566.3928,
+            "intensity": 36.0
+        },
+        {
+            "mz": 567.3424,
+            "intensity": 6.0
+        },
+        {
+            "mz": 567.8976,
+            "intensity": 7.0
+        },
+        {
+            "mz": 569.1266,
+            "intensity": 7.0
+        },
+        {
+            "mz": 569.8738,
+            "intensity": 5.0
+        },
+        {
+            "mz": 571.1606,
+            "intensity": 6.0
+        },
+        {
+            "mz": 572.4562,
+            "intensity": 19.0
+        },
+        {
+            "mz": 573.4097,
+            "intensity": 4.0
+        },
+        {
+            "mz": 573.9807,
+            "intensity": 2.0
+        },
+        {
+            "mz": 574.5256,
+            "intensity": 4.0
+        },
+        {
+            "mz": 575.3359,
+            "intensity": 1.0
+        },
+        {
+            "mz": 575.9349,
+            "intensity": 1.0
+        },
+        {
+            "mz": 576.6301,
+            "intensity": 1.0
+        },
+        {
+            "mz": 577.1034,
+            "intensity": 2.0
+        },
+        {
+            "mz": 578.4431,
+            "intensity": 21.0
+        },
+        {
+            "mz": 579.4039,
+            "intensity": 32.0
+        },
+        {
+            "mz": 580.4817,
+            "intensity": 20.0
+        },
+        {
+            "mz": 581.4531,
+            "intensity": 22.0
+        },
+        {
+            "mz": 582.5624,
+            "intensity": 6.0
+        },
+        {
+            "mz": 583.4536,
+            "intensity": 14.0
+        },
+        {
+            "mz": 584.4722,
+            "intensity": 8.0
+        },
+        {
+            "mz": 586.3594,
+            "intensity": 6.0
+        },
+        {
+            "mz": 587.1406,
+            "intensity": 5.0
+        },
+        {
+            "mz": 587.9289,
+            "intensity": 3.0
+        },
+        {
+            "mz": 588.7295,
+            "intensity": 3.0
+        },
+        {
+            "mz": 589.3058,
+            "intensity": 4.0
+        },
+        {
+            "mz": 589.728,
+            "intensity": 3.0
+        },
+        {
+            "mz": 590.1362,
+            "intensity": 3.0
+        },
+        {
+            "mz": 590.7582,
+            "intensity": 2.0
+        },
+        {
+            "mz": 591.4678,
+            "intensity": 5.0
+        },
+        {
+            "mz": 592.4472,
+            "intensity": 2.0
+        },
+        {
+            "mz": 592.9571,
+            "intensity": 1.0
+        },
+        {
+            "mz": 593.3689,
+            "intensity": 2.0
+        },
+        {
+            "mz": 593.5967,
+            "intensity": 1.0
+        },
+        {
+            "mz": 593.9384,
+            "intensity": 1.0
+        },
+        {
+            "mz": 594.2397,
+            "intensity": 1.0
+        },
+        {
+            "mz": 594.5727,
+            "intensity": 2.0
+        },
+        {
+            "mz": 595.1002,
+            "intensity": 2.0
+        },
+        {
+            "mz": 595.4244,
+            "intensity": 3.0
+        },
+        {
+            "mz": 596.3409,
+            "intensity": 3.0
+        },
+        {
+            "mz": 597.5099,
+            "intensity": 17.0
+        },
+        {
+            "mz": 598.6106,
+            "intensity": 46.0
+        },
+        {
+            "mz": 599.5746,
+            "intensity": 92.0
+        },
+        {
+            "mz": 600.416,
+            "intensity": 9.0
+        },
+        {
+            "mz": 601.6413,
+            "intensity": 5.0
+        },
+        {
+            "mz": 602.3845,
+            "intensity": 3.0
+        },
+        {
+            "mz": 603.1998,
+            "intensity": 3.0
+        },
+        {
+            "mz": 604.1237,
+            "intensity": 2.0
+        },
+        {
+            "mz": 604.853,
+            "intensity": 3.0
+        },
+        {
+            "mz": 605.0669,
+            "intensity": 1.0
+        },
+        {
+            "mz": 605.7244,
+            "intensity": 2.0
+        },
+        {
+            "mz": 606.5555,
+            "intensity": 2.0
+        },
+        {
+            "mz": 607.5673,
+            "intensity": 1.0
+        },
+        {
+            "mz": 608.1775,
+            "intensity": 2.0
+        },
+        {
+            "mz": 608.5598,
+            "intensity": 2.0
+        },
+        {
+            "mz": 608.8456,
+            "intensity": 2.0
+        },
+        {
+            "mz": 609.9066,
+            "intensity": 2.0
+        },
+        {
+            "mz": 610.7221,
+            "intensity": 5.0
+        },
+        {
+            "mz": 611.7691,
+            "intensity": 3.0
+        },
+        {
+            "mz": 612.7797,
+            "intensity": 5.0
+        },
+        {
+            "mz": 613.2584,
+            "intensity": 2.0
+        },
+        {
+            "mz": 614.686,
+            "intensity": 28.0
+        },
+        {
+            "mz": 615.6245,
+            "intensity": 45.0
+        },
+        {
+            "mz": 616.6515,
+            "intensity": 27.0
+        },
+        {
+            "mz": 617.5345,
+            "intensity": 3.0
+        },
+        {
+            "mz": 618.4367,
+            "intensity": 3.0
+        },
+        {
+            "mz": 619.2886,
+            "intensity": 4.0
+        },
+        {
+            "mz": 620.0156,
+            "intensity": 4.0
+        },
+        {
+            "mz": 620.7288,
+            "intensity": 2.0
+        },
+        {
+            "mz": 621.6571,
+            "intensity": 4.0
+        },
+        {
+            "mz": 622.6375,
+            "intensity": 7.0
+        },
+        {
+            "mz": 623.2709,
+            "intensity": 3.0
+        },
+        {
+            "mz": 623.8922,
+            "intensity": 3.0
+        },
+        {
+            "mz": 625.5287,
+            "intensity": 21.0
+        },
+        {
+            "mz": 626.0876,
+            "intensity": 2.0
+        },
+        {
+            "mz": 626.4747,
+            "intensity": 7.0
+        },
+        {
+            "mz": 627.0439,
+            "intensity": 2.0
+        },
+        {
+            "mz": 627.6479,
+            "intensity": 3.0
+        },
+        {
+            "mz": 628.5315,
+            "intensity": 10.0
+        },
+        {
+            "mz": 640.4821,
+            "intensity": 840.0
+        },
+        {
+            "mz": 641.5289,
+            "intensity": 57.0
+        },
+        {
+            "mz": 643.5181,
+            "intensity": 160.0
+        },
+        {
+            "mz": 658.3661,
+            "intensity": 999.0
+        },
+        {
+            "mz": 661.6279,
+            "intensity": 185.0
+        },
+        {
+            "mz": 662.9924,
+            "intensity": 60.0
+        },
+        {
+            "mz": 664.3638,
+            "intensity": 26.0
+        },
+        {
+            "mz": 665.8469,
+            "intensity": 15.0
+        },
+        {
+            "mz": 667.2081,
+            "intensity": 9.0
+        },
+        {
+            "mz": 668.564,
+            "intensity": 7.0
+        },
+        {
+            "mz": 669.6779,
+            "intensity": 6.0
+        },
+        {
+            "mz": 670.4866,
+            "intensity": 6.0
+        }
+    ]
+}
